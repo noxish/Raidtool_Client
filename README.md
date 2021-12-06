@@ -1,3 +1,3 @@
 # Raidtools-Client
 
-Sync Client for GuildTools, includes WoW TBC Classic Addon which collects Guildroster and learned Profession Recipes.
+[![Github All Releases](https://img.shields.io/github/downloads/noxish/Raidtool_Client/total.svg)]()
